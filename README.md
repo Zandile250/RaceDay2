@@ -20,3 +20,20 @@ ASP.NET Core 8 Web API · Entity Framework Core (Code-First) · SQL Server · se
 
 ## Tests
     dotnet test RaceDay.Tests/RaceDay.Tests.csproj
+
+## Run with Docker
+
+Requires Docker Desktop.
+
+    docker compose up --build
+
+Swagger UI: http://localhost:8080/swagger
+
+The database migration is applied automatically when the API starts.
+Stop everything with `docker compose down`.
+
+## Tests and CI
+
+    dotnet test RaceDay.Tests/RaceDay.Tests.csproj
+
+GitHub Actions restores, builds and runs the unit tests on every push to `main`.
