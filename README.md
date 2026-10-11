@@ -35,5 +35,7 @@ Stop everything with `docker compose down`.
 ## Tests and CI
 
     dotnet test RaceDay.Tests/RaceDay.Tests.csproj
+    <img width="922" height="485" alt="image" src="https://github.com/user-attachments/assets/95f55dc1-5aaa-4438-9f2c-7f2eeb2b4cd4" />
+
 
 GitHub Actions restores, builds and runs the unit tests on every push to `main`.
