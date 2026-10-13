@@ -96,6 +96,8 @@ Docker
 Docker containerizes SQL Server, giving a consistent environment to develop and test with a database.
 Swagger and OpenAPI
 Swagger is an interactive interface to view and test the API endpoints. It assists the developers with submitting requests, monitoring the responses, and grasping the API's behavior.
+<img width="935" height="354" alt="image" src="https://github.com/user-attachments/assets/239c1bf5-b782-4ea6-97f3-b76e3546d7d5" />
+
 
 The purpose, inputs to and result of the endpoints are documented using XML comments and response codes.
 Before storing passwords they are hashed with BCrypt. In the event of a password database leak, it helps to protect user credentials.
