@@ -1,6 +1,6 @@
 # RaceDay API (Part 2)
 
-The next one is a RaceDay – Race and Running Event Management System.The next one is a RaceDay – Race and Running Event Management System.
+Race and Running Event Management System.The next one is a RaceDay – Race and Running Event Management System.
 
  Project Overview
 
